@@ -31,7 +31,7 @@ By - Venkata Sri Ranga Sai Anapu (118529950) and Hemanth Joseph Raj (117518955)
 * Github Link: https://github.com/HemanthJoseph/ENPM661-A_Star.git
 
 * Initial Map of the Environment
-![Map](Map.png)
+* ![Map](Map.png)
 
 * Final Map after path planning using A* algorithm
-![Final Map](Path_rigid.png)
+* ![Final Map](Path_rigid.png)
