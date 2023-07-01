@@ -29,3 +29,9 @@ By - Venkata Sri Ranga Sai Anapu (118529950) and Hemanth Joseph Raj (117518955)
 * Time Taken to run the code: approx 100 seconds (varies based on laptop specifications)
 
 * Github Link: https://github.com/HemanthJoseph/ENPM661-A_Star.git
+
+* Initial Map of the Environment
+![Map](Map.png)
+
+* Final Map after path planning using A* algorithm
+![Final Map](Path_rigid.png)
